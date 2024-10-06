@@ -30,6 +30,5 @@ To run this project, you need to have:
 5. Build project
    > mvn clean install
 6. simply run the application
-
-
+7. use postman or any other API testing tools to test API endpoints
 
