@@ -24,7 +24,7 @@ To run this project, you need to have:
 # Setup Instructions
 **Clone the respository **
 1. git clone https://github.com/Prathamesh-Jagtap/SpringBoot-JPA-CRUD.git
-2 SpringBoot-JPA-CRUD  open in intelliJ
+2. open in intelliJ
 3. create database in MySQL
 4. Configure application.properties
 5. Build project
